@@ -1,8 +1,8 @@
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkwdXF0cHMzYXpnaW15OXc3a2U4NnAxd2Y0a3RhbHgxNzkycHpoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" />
 
-### 👋 Hi, I'm Anshu Kaushik!
+# 👋 Hi, I'm Anshu Kaushik!
 
-I'm a full-stack web developer passionate about building meaningful digital experiences.
+### I'm a full-stack web developer passionate about building meaningful digital experiences.
 
 <br clear="both">
 
